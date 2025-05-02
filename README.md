@@ -29,7 +29,7 @@ Source code
 implementation ("com.google.mediapipe:tasks-genai:0.10.22")
 ```
 
-Next in AndroidManifest.xml, alter TODO line with this code. This code is required after adding genai package. OpenCL is a open-source GPU library, just as the competitor of CUDA.
+Next in AndroidManifest.xml, alter TODO line with this code. This code is required after adding genai package. OpenCL is a open-source GPU library.
 
 ```xml
 <!-- Required to initialize the LlmInference -->
