@@ -1,5 +1,11 @@
 # GDGoC Learning Companion App Demo
 
+## Download link for 2 models
+
+Gemma 3 1B: https://www.dropbox.com/scl/fi/mky83xnln8lr2ub3a38t3/Gemma3-1B-IT_multi-prefill-seq_q8_ekv2048.task?rlkey=kdoaltng60a4r0gqxjt5cqhvg&st=ztaa63zk&dl=1
+
+Qwen 2.5 0.5B Instruct: https://www.dropbox.com/scl/fi/pcc49uxru5rkhi1nmhgb6/Qwen2.5-0.5B-Instruct_multi-prefill-seq_q8_ekv1280.task?rlkey=jw54doktn43k0rv13le5kh06d&e=1&st=ajy89egf&dl=1
+
 ## Overview
 
 This is a starter codebase project without MediaPipe GenAI. To see the final project, you should go to here: <https://github.com/lenhatquang97/LearningCompanionDemoMediaPipeLLM>
