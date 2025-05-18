@@ -1,5 +1,11 @@
 # GDGoC Learning Companion App Demo
 
+## Link Hugging Face
+
+Gemma3-1B-IT_multi-prefill-seq_q8_ekv2048.task: https://huggingface.co/litert-community/Gemma3-1B-IT/tree/main
+
+Qwen2.5-0.5B-Instruct_multi-prefill-seq_q8_ekv1280.task: https://huggingface.co/litert-community/Qwen2.5-0.5B-Instruct/tree/main
+
 ## Download link for 2 models
 
 Gemma 3 1B: https://www.dropbox.com/scl/fi/mky83xnln8lr2ub3a38t3/Gemma3-1B-IT_multi-prefill-seq_q8_ekv2048.task?rlkey=kdoaltng60a4r0gqxjt5cqhvg&st=ztaa63zk&dl=1
