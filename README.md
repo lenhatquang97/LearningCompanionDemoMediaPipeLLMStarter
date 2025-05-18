@@ -10,6 +10,8 @@ Qwen 2.5 0.5B Instruct: https://www.dropbox.com/scl/fi/pcc49uxru5rkhi1nmhgb6/Qwe
 
 This is a starter codebase project without MediaPipe GenAI. To see the final project, you should go to here: <https://github.com/lenhatquang97/LearningCompanionDemoMediaPipeLLM>
 
+Web Starter: <https://github.com/lenhatquang97/LearningCompanionDemoWebStarter>
+
 ## Prerequisites
 
 - You need to know that when you copy paste the source code, you should import the library to prevent red error.
